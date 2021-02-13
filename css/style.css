@@ -272,6 +272,9 @@ box-shadow: 0px 6px 6px 0px rgba(0,0,0,0.5);
 		max-width: 1367px;
 		margin: 0 auto;
 	}
+	.navigation{
+		height: 60px;
+	}
 	.content__block{
 		display: grid;
 		grid-template-columns: repeat(2, 45%);
